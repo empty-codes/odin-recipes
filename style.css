@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:#472D2D ;
+    background-image: url("./wall.jpg");
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h2, h3 {
+    font-size: 18px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+    
+}
+
+.img1, .img2, .img3 {
+    height: 500px;
+    width: 600px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
