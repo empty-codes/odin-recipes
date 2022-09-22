@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FECD70;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+}
+
+.img1 {
+    height: 300px;
+    width: 450px;
+    float: left;
+}
+
+.homelink {
+    text-align: center;
+}
+
+.ingredients {
+    clear:both
+}
+
+.descrip {
+    text-align: right;
+}
+
+.steps {
+    text-align: justify;
+    clear: both;
+}
+
